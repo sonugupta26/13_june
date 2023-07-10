@@ -32,3 +32,5 @@
 #dir(str)
 a="nksbhsnk"
 print(a.uppr())
+
+print(sonu)
